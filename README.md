@@ -5,3 +5,5 @@ There was some strange problem that caused me to upload the game only after it w
 final5 is the version of the game submitted on time
 
 final8 is the version after fixing some bugs
+
+final9 add 3 monster motion cards
